@@ -10,7 +10,7 @@ Has descubierto el secreto del juego, felicidades detective. Ahora tienes a tu d
 
 TIPS:
 
-1_Sigue las PISTAS en orden. 
+1_Archivos desordenados. Si abres un archivo, sigue las PISTAS en orden. 
 2_Descubrirás que no es tan facil como parece.
 3_Necesitaras un tiempo en encontrarlo, a no ser que seas Sherlock. Asi que trata de se descubrir pistas cuando tengas BASTANTE tiempo libre.
 
