@@ -48,7 +48,7 @@ python:
                   
                   
                   
-                  DOKI DOKI VERSIÓN IN dicen algunos. Si la verdad, SE ROMPIÓ LA CUARTA PARED!
+                  DOKI DOKI VERSIÓN IN dicen algunos. 
                   
                   
                   
